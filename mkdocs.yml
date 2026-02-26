@@ -56,6 +56,7 @@ nav:
       - 数据库概论: Course/Database.md
       - 数字逻辑与计算机组成: Course/DLCO.md
       - 人工智能: Course/Artificial_Intelligence.md
+      - 分布式与并行计算: Course/ParallelDistributedComputing.md
     - 大三下:
       - 数字逻辑与计算机组成实验: Course/DLCO_Lab.md 
       - 操作系统: Course/OS.md
