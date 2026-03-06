@@ -71,6 +71,7 @@ nav:
       - 并发算法与理论: Course/Concurrency.md
       - 机器学习导论: Course/ML_Intro.md
       - 计算机程序的构造与解释: Course/SICP.md
+      - 并行计算方法引论: Course/ParallelComputing.md
   - OJ:
     - test: test.md
 
